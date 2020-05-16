@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package proyecto_final;
+package Operaciones_basicas;
 import java.util.Scanner;
 /**
  *
