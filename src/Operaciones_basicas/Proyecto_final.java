@@ -1,5 +1,5 @@
 
-package proyecto_final;
+package Operaciones_basicas;
 
 
 public class Proyecto_final {

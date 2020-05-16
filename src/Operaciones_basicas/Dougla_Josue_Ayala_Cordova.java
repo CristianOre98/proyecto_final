@@ -1,4 +1,4 @@
-package proyecto_final;
+package Operaciones_basicas;
 
 import java.util.Scanner;
 
